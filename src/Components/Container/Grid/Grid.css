@@ -1,0 +1,117 @@
+.container{
+    /* border: 1px solid; */
+    height: 175vh;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    padding: 10px;
+    gap: 5px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(2, 1fr);
+}
+.ipad-pro,.pro,
+.macbook-pro,.ipad{
+    /* border: 1px solid; */
+    /* margin: 10px; */
+    /* gap: 50px; */
+    height: 85vh;
+    width: 99%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.ipad-pro{
+    background: #000;
+    color: #fff;
+    text-align: center;
+}
+.ipad-pro-header{
+    position: relative;
+    top: 50px;
+    font-size: 40px;
+}
+.ipad-pro-txt{
+    position: relative;
+    top: 10px;
+    color: #fff;
+    font-size: x-large;
+}
+.pro{
+    /* margin-left: 10px; */
+    background: #C7E6F1;
+    text-align: center;
+}
+.pro-txt{
+    position: relative;
+    top: 10px;
+    color: #000;
+    font-size: x-large;
+}
+.ipad{
+    text-align: center;
+    background: #FBFBFD;
+}
+.ipad-header{
+    position: relative;
+    top: 50px;
+    font-size: 40px;
+}
+.ipad-txt{
+    position: relative;
+    top: 10px;
+    color: #000;
+    font-size: x-large;
+}
+
+.macbook-pro{
+    text-align: center;
+    background: #FBFBFD;
+}
+.macbook-pro-header{
+    position: relative;
+    top: 50px;
+    font-size: 40px;
+}
+.macbook-pro-txt{
+    position: relative;
+    top: 10px;
+    color: #000;
+    font-size: x-large;
+}
+
+.ipad-pro-btn,.pro-btn,.macbook-pro-btn,.ipad-btn{
+    position: relative;
+    top: 5%;
+    padding: 12px;
+    width: 120px;
+    border-radius: 50px;
+    border: none;
+    color: #fff;
+    /* margin-left: -50px; */
+    background-color: #0077ED;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

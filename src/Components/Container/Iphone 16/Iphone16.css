@@ -1,0 +1,32 @@
+.iphone16-container{
+    /* border: 1px solid; */
+    text-align: center;
+    width: 100%;
+    height: 85vh;
+    position: relative;
+    color: #fff;
+    background: linear-gradient(#0E143F,#1A1F48,#3F4366,#7F8399,#CFD0D9,#ffff);
+    margin-top: 12px;
+}
+
+.iphone-16-header{
+    font-family: Arial, Helvetica, sans-serif;
+    position: inherit;
+    font-size: 55px;
+    text-align: center;
+    top: 40px;
+}
+
+.iphone16-btn{
+    position: absolute;
+    position: absolute;
+    top: 85%;
+    font-size: medium;
+    padding: 15px;
+    width: 130px;
+    border-radius: 50px;
+    border: none;
+    color: #fff;
+    margin-left: -50px;
+    background-color: #0077ED;
+}

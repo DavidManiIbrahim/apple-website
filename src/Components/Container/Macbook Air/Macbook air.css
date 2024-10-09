@@ -1,0 +1,39 @@
+
+.macbook-container{
+    /* border: 1px solid; */
+    text-align: center;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 85vh;
+    position: relative;
+    background: #F5F5F7;
+    margin-top: 10px;
+}
+
+.macbook-header{
+    font-family: Arial, Helvetica, sans-serif;
+    position: inherit;
+    font-size: 60px;
+    color: #1B1B1D;
+    text-align: center;
+    top: 40px;
+}
+h2{
+    margin-top: 40px;
+    font-weight: 100;
+    font-size: 30px;
+    color: #333;
+}
+
+.macbook-btn{
+    position: absolute;
+    top: 30%;
+    font-size: medium;
+    padding: 15px;
+    width: 130px;
+    border-radius: 50px;
+    border: none;
+    color: #fff;
+    margin-left: -50px;
+    background-color: #0077ED;
+}
